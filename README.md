@@ -1,2 +1,2 @@
-# Repository-name-python-begnners
+#python-begnners
 My first Python program
